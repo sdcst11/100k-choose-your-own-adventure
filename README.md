@@ -7,9 +7,7 @@ The key to the CYAC books was that a single part of the story (1 page) was kind 
 
 We can create our own CYAC using multiple print statements.  First thing you want to do is flesh out your story with a web diagram.  This is best planned on paper.  The distinct pathways of your story will likely begin to branch out like a tree, with each combination of choices resulting in a different outcome at the end. To do this, you may need to make use of nested if statements. This means putting a second if-else structure inside of the first one.
 
-[Choose your own adventure map](cyoa.png)
+![Choose your own adventure map](cyoa.png)
 [Choose your own adventure map](https://rudolfkerkhoven.com/wp-content/uploads/2011/01/sturls-map.jpg)
-
-We can create our own CYAC adventure program, but we will need multiple files to represent each page.  An example has been created for you!
 
 Once you have a plan, you can start filling in contents for your pages.
