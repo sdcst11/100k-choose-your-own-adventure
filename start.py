@@ -5,3 +5,11 @@ print("")
 print("What do you want to do next?")
 print("1. Look at the dragon pen")
 print("2. Introduce yourself to some of the people in your class")
+
+choice = input("Make a choice!:")
+if input == "1":
+    print("You are looking at the dragon pen.")
+elif input == "2":
+    print("You say, 'Hi, I'm Widget!'")
+    print("What do you want to do next?")
+    print("1. Look at the people in your class")
