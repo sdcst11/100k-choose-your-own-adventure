@@ -1,9 +1,14 @@
-print("Welcome to your first day of Dragon Training!")
+from os import system
+from rich import print
 
-print("Today you will start your journey as a dragon hunter. This class will help you learn all of the tricks and treats of training your own dragon pet")
+system("clear||cls")
+
+print("[red on white]Welcome to your first day of Dragon Training![/red on white]")
+
+print("Today you will start your journey as a [bold cyan underline]dragon hunter[/bold cyan underline]. This class will help you learn all of the tricks and treats of training your own dragon pet")
 print("")
 print("What do you want to do next?")
-print("1. Look at the dragon pen")
+print("1. Look at the [bold red]dragon pen")
 print("2. Introduce yourself to some of the people in your class")
 
 choice = input("Make a choice!:")
